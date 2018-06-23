@@ -1,0 +1,9 @@
+{
+    "name": "NIX",
+    "symbol": "NIX",
+    "algorithm": "lyra2rev2",
+    "peerMagic": "b9b4bef9",
+    "peerMagicTestnet": "09070b11",
+    "sha256DHeader": true,
+    "network": {"pubKeyHash": "0x03", "scriptHash": "0x35", "bech32": "nix", "bip32": {"public": "0x0488b21e", "private": "0x0488ade4"}}
+}
