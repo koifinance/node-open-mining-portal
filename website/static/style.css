@@ -1,9 +1,9 @@
 html, button, input, select, textarea, .pure-g [class *= "pure-u"], .pure-g-r [class *= "pure-u"]{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lato', sans-serif;
 }
 
 html{
-    background: #2d2d2d;
+    background: #060D1E;
     overflow-y: scroll;
 }
 
