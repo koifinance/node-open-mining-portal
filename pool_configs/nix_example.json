@@ -6,7 +6,7 @@
         "pool_reward_fee_address": 1
     },
     "paymentProcessing": {
-        "enabled": true,
+        "enabled": false,
         "paymentInterval": 600,
         "minimumPayment": 0.01,
         "daemon": {
